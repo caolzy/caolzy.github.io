@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://caolzy.github.io/XGa/sitemap.XGa.gz
